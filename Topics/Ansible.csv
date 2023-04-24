@@ -1,0 +1,21 @@
+Username,Repository Name,Repository Link,Stars
+ansible,ansible,https://github.com/ansible/ansible,57100
+bregman-arie,devops-exercises,https://github.com/bregman-arie/devops-exercises,42500
+trailofbits,algo,https://github.com/trailofbits/algo,27100
+StreisandEffect,streisand,https://github.com/StreisandEffect/streisand,23000
+MichaelCade,90DaysOfDevOps,https://github.com/MichaelCade/90DaysOfDevOps,22400
+kubernetes-sigs,kubespray,https://github.com/kubernetes-sigs/kubespray,13800
+ansible,awx,https://github.com/ansible/awx,12100
+easzlab,kubeasz,https://github.com/easzlab/kubeasz,9000
+geerlingguy,ansible-for-devops,https://github.com/geerlingguy/ansible-for-devops,6900
+khuedoan,homelab,https://github.com/khuedoan/homelab,6800
+Tikam02,DevOps-Guide,https://github.com/Tikam02/DevOps-Guide,6700
+ansible-semaphore,semaphore,https://github.com/ansible-semaphore/semaphore,5900
+geerlingguy,mac-dev-playbook,https://github.com/geerlingguy/mac-dev-playbook,5300
+rundeck,rundeck,https://github.com/rundeck/rundeck,4900
+KubeOperator,KubeOperator,https://github.com/KubeOperator/KubeOperator,4700
+clong,DetectionLab,https://github.com/clong/DetectionLab,4200
+netbootxyz,netboot.xyz,https://github.com/netbootxyz/netboot.xyz,4000
+litmuschaos,litmus,https://github.com/litmuschaos/litmus,3600
+ansible-community,molecule,https://github.com/ansible-community/molecule,3500
+opendevops-cn,opendevops,https://github.com/opendevops-cn/opendevops,3400

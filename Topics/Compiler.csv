@@ -1,0 +1,21 @@
+Username,Repository Name,Repository Link,Stars
+vercel,next.js,https://github.com/vercel/next.js,105000
+rust-lang,rust,https://github.com/rust-lang/rust,80600
+sveltejs,svelte,https://github.com/sveltejs/svelte,67200
+webpack,webpack,https://github.com/webpack/webpack,63000
+gatsbyjs,gatsby,https://github.com/gatsbyjs/gatsby,54400
+JetBrains,kotlin,https://github.com/JetBrains/kotlin,44500
+parcel-bundler,parcel,https://github.com/parcel-bundler/parcel,42300
+babel,babel,https://github.com/babel/babel,42200
+evanw,esbuild,https://github.com/evanw/esbuild,35200
+vlang,v,https://github.com/vlang/v,33400
+carbon-language,carbon-lang,https://github.com/carbon-language/carbon-lang,30300
+markedjs,marked,https://github.com/markedjs/marked,29500
+swc-project,swc,https://github.com/swc-project/swc,27100
+vercel,pkg,https://github.com/vercel/pkg,23200
+ziglang,zig,https://github.com/ziglang/zig,21700
+v8,v8,https://github.com/v8/v8,21100
+typst,typst,https://github.com/typst/typst,16300
+AssemblyScript,assemblyscript,https://github.com/AssemblyScript/assemblyscript,15500
+nim-lang,Nim,https://github.com/nim-lang/Nim,14900
+RustPython,RustPython,https://github.com/RustPython/RustPython,14800
